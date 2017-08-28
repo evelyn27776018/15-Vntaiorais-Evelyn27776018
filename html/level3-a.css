@@ -1,0 +1,128 @@
+/* Start here */
+
+body {
+    width: 800px;
+    height: 3000px;
+}
+
+.purge{
+
+    width: 9px;
+    height: 6px;
+    padding: 20px;
+    margin:6px;
+    
+    border-style: dashed;
+    border-color:limegreen
+}
+
+.your{
+
+    
+    width: 80px;
+    height: 60px;
+    padding: 100px;
+    margin:10px;
+
+    border-style:ridge;
+    border-color:limegreen
+}
+
+.mind{
+
+    
+    width: 1000px;
+    height: 1px;
+    padding: 10px;
+    margin:10px;
+    
+    border-style:dotted;
+    border-color:limegreen
+}
+
+.as{
+
+    width: 1px;
+    height: 200px;
+    padding: 10px;
+ 
+    
+    border-style: double;
+    border-color:red
+}
+
+.much{
+
+    
+    width: 100px;
+    height: 80px;
+    padding: 100px;
+    
+    background-color: red;
+    border-style: dashed;
+    border-color:red
+}
+
+.as2{
+
+    
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+  
+     background-color: white;
+    border-style:groove;
+    border-color: red}
+
+.cultural{
+
+    
+    width: 18px;
+    height: 60px;
+    padding: 10px;
+    margin:10px;
+   display: grid;
+    border-style:inset;
+    border-color:blue
+}
+
+.baggage{
+
+    width: 80px;
+    height: 60px;
+    padding: 200px;
+    margin:50px;
+    
+    background-color: blue;
+     border-style:groove;
+    border-bottom-color:red;
+    border-left-color: blue;
+    border-right-color: yellow;
+    border-top-color: white;
+    border-style: dashed;
+ 
+}
+
+.as3{
+
+    
+    width: 1px;
+    height: 1px;
+    padding: 10px;
+    margin:10px;
+    
+    border-style:solid;
+    border-color:yellow
+}
+
+.possible{
+
+    
+    width: 1000px;
+    height: 1000px;
+    padding: 10px;
+    margin:10px;
+    
+ background-color: yellow;
+  
+    border-color:yellow}

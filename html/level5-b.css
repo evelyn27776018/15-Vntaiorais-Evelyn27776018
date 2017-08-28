@@ -1,0 +1,125 @@
+/* Start here */
+body{
+    background-image: url(image/5b3.webp);
+
+background-position:top;
+}
+
+#container{
+    perspective: 500px;
+    font-size: 0;
+    color: white;
+   position:relative;
+    }
+
+#container div{
+    font-size: 6rem;
+    font-family: "futura";
+    width: 100rem;
+    height: 10rem;
+    background-color: aqua;
+    display: inline-block;
+    color: white;
+    line-height: 10rem;
+     
+    position: relative;
+    overflow: hidden;
+     
+    white-space: nowrap;
+}
+
+
+#container div:first-of-type{
+    transform: rotateY(-40deg);
+    transform-origin: top right;
+    background: aqua;
+}
+
+#container div:last-of-type{
+    transform: rotateY(60deg);
+    transform-origin: top left;
+    background:red;
+}
+
+#container div span{
+    position: absolute;
+}
+
+#container div:first-of-type span{
+
+transform:translateX(60rem);
+
+animation: left_div 14s linear infinite; 
+text-shadow: 20px 0px 4px rgba(0,0,0,0.3);    
+　} 
+
+
+#container div:last-of-type span{ transform: translateX(30rem);
+animation: right_div 14s linear infinite ;
+}
+@keyframes right_div{
+    to{transform: translateX(-130rem);}
+}
+@keyframes left_div{
+    to{transform: translateX(-100rem);}
+}
+
+
+
+#container2 div{
+    font-size: 8rem;
+    font-family: inherit;
+    width: 40rem;
+    height: 50rem;
+    background-color: aqua;
+    display: inline-block;
+    color: white;
+    line-height: 10rem;
+     
+    position: relative;
+    overflow: hidden;
+     
+    white-space: nowrap;
+}
+
+#container2{
+    perspective: 500px;
+    font-size: 0;
+    color: white;
+   position:relative;
+    }
+
+#container2 div:first-of-type{
+    transform: rotateY(-40deg);
+    transform-origin: top right;
+    background: aqua;
+}
+
+#container2 div:last-of-type{
+    transform: rotateY(60deg);
+    transform-origin: top left;
+    background:darkblue;
+}
+
+#container2 div span{
+    position: absolute;
+}
+
+#container2 div:first-of-type span{
+
+transform:translateX(80rem);
+
+animation: left_div 16s infinite; 
+text-shadow: 20px 0px 4px rgba(0,0,0,0.3);    
+　} 
+
+
+#container2 div:last-of-type span{ transform: translateX(40rem);
+animation: right_div 16s  infinite ;
+}
+@keyframes right_div{
+    to{transform: translateX(-520rem);}
+}
+@keyframes left_div{
+    to{transform: translateX(-450rem);}
+}

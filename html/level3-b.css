@@ -1,0 +1,207 @@
+/* Start here */
+
+body {
+    width: 500px;
+    height: 2800x;
+}
+
+
+#chair { 
+    
+    position: fixed;
+    left: 400px;
+}
+
+
+.outer {
+    width: 800px;
+    height:60px;
+    background-color: blue;
+    
+    margin-left: 100px;
+    padding-left: 20px;
+    margin-top: 500px;
+    padding-top: 10px;
+}
+
+.inner {
+    
+    width: 300px;
+    height: 50px;
+    background-color: yellow;
+    
+    padding: 10px 10px 20px 30px;
+    
+    font-family: 'Comic Sans';
+    letter-spacing: 20px;
+    
+    float: right;
+    
+    -webkit-transform: rotateZ(0deg); /* Safari */
+    transform: rotateZ(0deg);
+}
+
+ #if{ 
+             
+    font-size: 30px
+    font-family: 'Comic Sans';
+    letter-spacing: 30px;
+    
+    float: inherit;
+    
+    -webkit-transform: rotateZ(0deg); /* Safari */
+    transform: rotateZ(0deg)}  
+
+
+.A{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+
+}
+
+.D{
+     width: 70px;
+    height: 500px;
+    background-color:yellow;
+
+}
+.B{
+    width:1000px;
+    height: 50px;
+    background-color:yellow;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: left;   
+}
+
+.C{
+    width:50px;
+    height:1500px;
+    background-color:blue;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+
+.E{width:1000px;
+    height:100px;
+    background-color:red;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit
+    
+}
+.F{
+    width:800px;
+    height:80px;
+    background-color:red;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F1{
+    width:800px;
+    height:10px;
+    background-color:red;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F2{
+    width:800px;
+    height:1px;
+    background-color:yellow;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F3{
+    width:800px;
+    height:20px;
+    background-color:blue;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F4{
+    width:800px;
+    height:1px;
+    background-color:red;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+
+.F5{
+    width:800px;
+    height:50px;
+    background-color:blue;
+    
+    padding: 10px 10px 20px 30px;
+}
+.F6{
+    width:800px;
+    height:1px;
+    background-color:yellow;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F7{
+    width:800px;
+    height:10px;
+    background-color:red;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F8{
+    width:800px;
+    height:5px;
+    background-color:yellow;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+.F9{
+    width:800px;
+    height:800px;
+    background-color:white;
+    border-bottom-color: red;
+    padding: 10px 10px 20px 30px;
+    
+    float: inherit;
+}
+
+
+
+#chair {
+    width: 560px;}
+.G{
+    
+    width: 200px;
+    height: 50px;
+    background-color: red;
+    
+    padding: 10px 10px 20px 30px;
+    
+    float: left;
+    
+    -webkit-transform: rotateZ(0deg); /* Safari */
+    transform: rotateZ(0deg);
+}
+
+
+

@@ -1,0 +1,72 @@
+/* Start here */
+
+body {
+    width: 20000px;
+    height: 3000px;
+}
+
+
+.first{
+   text-transform: lowercase;
+    font-size: 20px;
+    letter-spacing: 50px;
+}
+
+.A2{
+    text-transform: uppercase;
+    font-size: 100px;
+}
+.second{
+    
+   text-transform: lowercase;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.third{
+   text-transform: lowercase;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.fourth{
+   text-transform: lowercase;
+    font-size: 20px;
+    letter-spacing: -2px;
+}
+
+.o{  font-size: 80px;
+    transform: rotateZ(30deg); 
+    transform: rotateZ(30deg);
+}
+
+.D{
+  font-size: 80px;
+}
+
+
+.l1{
+   transform: rotateZ(500deg); 
+    transform: rotateZ(300deg);
+} 
+
+.A{
+      font-size: 100px;
+    
+}
+
+.body2{
+    font-size:90px
+}
+
+
+.o3{
+    font-size:90px; 
+}
+
+.D3{font-size:90px; transform: rotateZ(30deg); 
+    
+}
+.a3{
+    text-transform: uppercase;
+    font-size: 90px;
+    
+}

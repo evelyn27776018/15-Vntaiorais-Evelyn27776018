@@ -1,0 +1,102 @@
+/* Start here */
+
+body {
+  
+     background-image: url(image/5c.webp);
+    background-repeat:round
+}
+.no{
+    margin: 100px;
+    
+    font-family:serif;
+     font-size: 80px;
+ 
+  color: snow; 
+    
+}
+.what{margin: 100px;
+    
+    font-family:serif;
+     font-size: 80px;
+ 
+  color: snow;
+    
+}
+.that{
+    margin: 100px;
+    
+    font-family:serif;
+     font-size: 80px;
+ 
+  color: snow;
+}
+
+.other{
+       font-family:serif;
+     font-size: 80px;
+  text-align: center;
+  color: snow;
+}
+ .text{
+  font-family:"optima";
+     font-size: 100px;
+  text-align: center;
+  color: snow;
+}
+
+span {
+ animation: glow 2s ease-in-out both infinite;
+animation: glow 2s ease-in-out both infinite;
+}
+span:1{
+  animation-delay: -0.28571s;
+  animation-delay: -0.28571s;
+}
+span:2 {
+  animation-delay: -0.57143s;
+  animation-delay: -0.57143s;
+}
+span:2 {
+ animation-delay: -0.85714s;
+animation-delay: -0.85714s;
+}
+span:4 {
+ animation-delay: -1.14286s;
+animation-delay: -1.14286s;
+}
+span:5 {
+animation-delay: -1.42857s;
+animation-delay: -1.42857s;
+}
+span:6{
+animation-delay: -1.71429s;
+animation-delay: -1.71429s;
+}
+span:7 {
+animation-delay: -23658s;
+animation-delay: -23658s;
+}
+
+
+
+@keyframes glow {
+  0%, 100% {
+    text-shadow:
+    0 0 8.33333px snow,
+    0 -25px 50px tomato, -25px 25px 50px yellow, 25px 25px 50px tomato;
+  }
+  33% {
+    text-shadow:
+    0 0 8.33333px snow, 
+    0 -25px 50px cyan, 
+    -25px 25px 50px tomato, 
+    25px 25px 50px cyan;
+  }
+  66% {
+    text-shadow: 
+    0 0 8.33333px snow,
+    0 -25px 50px yellow, 
+    -25px 25px 50px cyan,
+    25px 25px 50px yellow;
+  }
+}

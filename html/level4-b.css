@@ -1,0 +1,81 @@
+/* Start here */
+
+body {
+    width:1500px;
+    height: 1000px;
+    background-color: black
+}
+
+
+.L{
+    color: #33F9FF;
+    text-decoration-style: double;
+    font-family: "didot";
+    font-size:700px
+}
+.I{
+    width: 10px;
+    height :10px;
+    border-style: dotted;
+    background-color:#FFFC33;
+    
+    
+    color: #3393FF;
+    font-family: "didot";
+    font-size:700px
+}
+.S{
+    color: #3933FF;
+    text-decoration-style: double;
+    font-family: "didot";
+    font-size:700px
+}
+.T{
+    color: #9F33FF;
+    text-decoration-style: double;
+    font-family: "didot";
+    font-size:700px
+}
+.E{
+    color: #FF33F9;
+    text-decoration-style: double;
+    font-family: "didot";
+    font-size:700px
+}
+.N{
+     width: 900px;
+    height :900px;
+    border-style: double;
+    background-color:#33FFFC;
+    
+    color: #FF3393;
+    text-decoration-style: double;
+    font-family: "didot";
+    font-size:700px
+}
+.m{
+     width: 900px;
+    height :900px;
+   
+    color: #FF3393;
+   
+    font-family: "didot";
+    font-size:700px
+}
+
+.text{
+    color:white;
+     -transform: rotateZ(330deg); /* Safari */
+    transform: rotateZ(330deg);
+  text-transform: lowercase;
+    text-align:center;
+     width: 800px;
+    height: 100px;
+    background-color: red;
+    border-top-style: dashed;
+   border-top-color:  aqua
+    opacity: 50%;
+    font-size: 100px;
+    font-family: monospace;
+    position:fixed;
+}

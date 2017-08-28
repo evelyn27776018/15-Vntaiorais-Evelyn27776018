@@ -1,0 +1,66 @@
+/* Start here */
+
+body {
+
+  background-image: url(image/5a1.gif);
+background-repeat:repeat;
+background-position:fixed;
+}
+.click{
+    font-family: serif;
+    font-size: 30px;
+        color:red;
+}
+.e{
+    color:red
+}
+.cure{  
+    font-family:"futura";
+ font-size: 300px;
+color: aliceblue;   
+}
+
+.cancer{    
+white-space: nowrap;　
+overflow-y: scroll;
+width: 400px;　
+marquee-direction:up;　
+marquee-speed:fast;　
+marquee-style:scroll;　　
+
+}
+
+.one{
+font-family:"futura";
+font-size: 200px;
+transform: rotateZ(90deg); 
+    transform: rotateZ(90deg);
+    color:white;
+    
+　
+marquee-direction:down;　
+marquee-speed:fast;　
+marquee-style:scroll;　　
+ 　
+}
+.we{
+marquee-direction:right;　
+marquee-speed:fast;　
+marquee-style:alternate;
+}
+.C{
+　
+width: 170px;　
+marquee-direction:down;　
+marquee-speed:fast;　
+marquee-style:scroll;
+    white-space: nowrap;
+}
+.dollar{
+color:yellow;
+white-space: nowrap;　
+width: 170px;　
+marquee-direction:down;　
+marquee-speed:fast;　
+marquee-style:scroll;
+}

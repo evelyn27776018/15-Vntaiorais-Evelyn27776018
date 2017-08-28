@@ -1,0 +1,16 @@
+/* Start here */
+
+body {
+    width: 900px;
+    height: 1600px;
+}
+
+#chair{
+        
+  font-family:futura;
+    
+font-size:500px;
+
+    text-shadow: 200px;
+}
+

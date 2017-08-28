@@ -1,0 +1,53 @@
+/* Start here */
+
+body {
+    width: 1000px;
+    height: 2000px;
+}
+
+.text2{
+   
+    text-indent: 40%;
+     text-decoration-style: dashed; 
+    transform: rotateZ(30deg); 
+    transform: rotateZ(30deg);
+}
+
+
+.text{
+    text-indent: 40%;
+     text-decoration-style: dashed; 
+    transform: rotateZ(30deg); 
+    transform: rotateZ(30deg);
+}
+.red{
+color:red;
+     font-size: 200px;
+    font-family:cursive;
+    letter-spacing: -80px;
+    
+}
+.blue{
+     opacity: 70%;
+color:blue;
+    font-style: italic;
+     font-size: 200px;
+    font-family:cursive;
+    letter-spacing: -80px;}
+
+.yellow{
+color:yellow;
+     font-size: 200px;
+     font-weight: bold;
+    font-family:cursive;
+    letter-spacing: -80px;}
+
+.green{
+    font-style:oblique;
+color:limegreen;
+    opacity: 80%;
+     font-size: 200px;
+    font-family:cursive;
+    letter-spacing: -80px;}
+
+    
